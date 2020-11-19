@@ -1,6 +1,6 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
-# Understanding RL vision
+# Understanding RL Vision
 
 #### [ [Paper] ](https://distill.pub/2020/understanding-rl-vision) [ [Demo] ](https://openaipublic.blob.core.windows.net/rl-clarity/attribution/demo/interface.html)
 
@@ -107,7 +107,7 @@ Please cite using the following BibTeX entry:
 ```
 @article{hilton2020understanding,
   author = {Hilton, Jacob and Cammarata, Nick and Carter, Shan and Goh, Gabriel and Olah, Chris},
-  title = {Understanding RL vision},
+  title = {Understanding RL Vision},
   journal = {Distill},
   year = {2020},
   note = {https://distill.pub/2020/understanding-rl-vision},
